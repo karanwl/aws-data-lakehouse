@@ -8,11 +8,11 @@ This project provides a step-by-step guide to building a data lakehouse solution
 
 The project is divided into the following steps:
 
-Create a data lakehouse solution using AWS Glue, AWS S3, Python, and Spark.
-Ingest data from the STEDI Step Trainer sensors and the mobile app into the data lakehouse.
-Clean and transform the data to prepare it for analysis.
-Create curated datasets that can be used to train the machine learning model.
-Visualize the data to identify trends and patterns.
+* Create a data lakehouse solution using AWS Glue, AWS S3, Python, and Spark.
+* Ingest data from the STEDI Step Trainer sensors and the mobile app into the data lakehouse.
+* Clean and transform the data to prepare it for analysis.
+* Create curated datasets that can be used to train the machine learning model.
+* Visualize the data to identify trends and patterns.
 
 # Benefits:
 
