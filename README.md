@@ -16,7 +16,7 @@ The project is divided into the following steps:
 
 # Benefits:
 
-Centralized data repository
-Data cleaning and transformation
-Data analysis and visualization
-Scalability
+* Centralized data repository
+* Data cleaning and transformation
+* Data analysis and visualization
+* Scalability
